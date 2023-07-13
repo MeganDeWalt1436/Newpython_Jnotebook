@@ -2,7 +2,7 @@
 New repo for my python notebook
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MeganDeWalt1436/importrepotry3/py37_r353)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MeganDeWalt1436/Newpython_Jnotebook/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
